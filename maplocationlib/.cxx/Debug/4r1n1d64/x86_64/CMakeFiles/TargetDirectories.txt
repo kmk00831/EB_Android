@@ -1,0 +1,3 @@
+/Users/admin/AndroidStudioProjects/zeromap-engineering_building-android/maplocationlib/.cxx/Debug/4r1n1d64/x86_64/CMakeFiles/maplocationlib.dir
+/Users/admin/AndroidStudioProjects/zeromap-engineering_building-android/maplocationlib/.cxx/Debug/4r1n1d64/x86_64/CMakeFiles/edit_cache.dir
+/Users/admin/AndroidStudioProjects/zeromap-engineering_building-android/maplocationlib/.cxx/Debug/4r1n1d64/x86_64/CMakeFiles/rebuild_cache.dir

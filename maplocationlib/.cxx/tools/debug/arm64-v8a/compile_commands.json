@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/admin/AndroidStudioProjects/zeromap-engineering_building-android/maplocationlib/.cxx/Debug/4r1n1d64/arm64-v8a",
+  "command": "/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/NDK/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=aarch64-none-linux-android22 --sysroot=/Applications/Unity/Hub/Editor/2022.3.28f1/PlaybackEngines/AndroidPlayer/NDK/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dmaplocationlib_EXPORTS -I/Users/admin/AndroidStudioProjects/zeromap-engineering_building-android/maplocationlib/src/main/cpp/include -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -fexceptions -frtti -stdlib=libc++ -g  -fno-limit-debug-info -fPIC -o CMakeFiles/maplocationlib.dir/native-lib.cpp.o -c /Users/admin/AndroidStudioProjects/zeromap-engineering_building-android/maplocationlib/src/main/cpp/native-lib.cpp",
+  "file": "/Users/admin/AndroidStudioProjects/zeromap-engineering_building-android/maplocationlib/src/main/cpp/native-lib.cpp"
+}
+]

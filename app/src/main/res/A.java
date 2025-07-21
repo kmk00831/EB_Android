@@ -1,0 +1,5 @@
+resources
+assets
+Il2CppOutputProject
+jniLibs
+jniStaticLibs

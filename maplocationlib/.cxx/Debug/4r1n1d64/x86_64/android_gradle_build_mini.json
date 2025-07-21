@@ -1,0 +1,27 @@
+{
+  "buildFiles": [
+    "/Users/admin/AndroidStudioProjects/zeromap-engineering_building-android/maplocationlib/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/admin/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/admin/AndroidStudioProjects/zeromap-engineering_building-android/maplocationlib/.cxx/Debug/4r1n1d64/x86_64",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/admin/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/admin/AndroidStudioProjects/zeromap-engineering_building-android/maplocationlib/.cxx/Debug/4r1n1d64/x86_64",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "maplocationlib::@6890427a1f51a3e7e1df": {
+      "artifactName": "maplocationlib",
+      "abi": "x86_64",
+      "output": "/Users/admin/AndroidStudioProjects/zeromap-engineering_building-android/maplocationlib/build/intermediates/cxx/Debug/4r1n1d64/obj/x86_64/libmaplocationlib.so",
+      "runtimeFiles": []
+    }
+  }
+}

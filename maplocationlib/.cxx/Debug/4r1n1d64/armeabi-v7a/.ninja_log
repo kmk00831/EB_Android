@@ -1,0 +1,8 @@
+# ninja log v5
+0	1741	1750032719724713501	CMakeFiles/maplocationlib.dir/native-lib.cpp.o	b4662352b38cf9bf
+1741	1818	1750032719794697654	/Users/admin/AndroidStudioProjects/zeromap-engineering_building-android/maplocationlib/build/intermediates/cxx/Debug/4r1n1d64/obj/armeabi-v7a/libmaplocationlib.so	ac8e26e91a6bbae7
+0	4	0	clean	b017576d995a88c1
+0	5	0	clean	b017576d995a88c1
+0	3	0	clean	b017576d995a88c1
+1	1577	1750034616776526753	CMakeFiles/maplocationlib.dir/native-lib.cpp.o	b4662352b38cf9bf
+1577	1648	1750034616842552189	/Users/admin/AndroidStudioProjects/zeromap-engineering_building-android/maplocationlib/build/intermediates/cxx/Debug/4r1n1d64/obj/armeabi-v7a/libmaplocationlib.so	ac8e26e91a6bbae7
