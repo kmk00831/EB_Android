@@ -1,0 +1,43 @@
+# Unity 기본 무시 목록
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+MemoryCaptures/
+UserSettings/
+ProjectSettings/EditorBuildSettings.asset
+
+# Visual Studio 관련
+*.csproj
+*.sln
+*.user
+*.pidb
+*.booproj
+.vscode/
+.idea/
+
+# Android 빌드 관련
+*.apk
+*.aab
+*.keystore
+*.so
+*.dex
+*.jar
+*.class
+
+# Gradle 관련
+.gradle/
+build/
+gradle/
+app/build/
+
+# macOS 시스템 파일
+.DS_Store
+
+# Git LFS로 안 넘기면 큰 파일 제외
+app/symbols/
+
+# 기타
+*.swp

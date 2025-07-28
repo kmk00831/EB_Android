@@ -1,0 +1,7 @@
+[
+{
+  "directory": "C:/ControlSystem/EB/EB_Android/maplocationlib/.cxx/Debug/4r1n1d64/x86",
+  "command": "C:\\Users\\user\\AppData\\Local\\Android\\Sdk\\ndk\\23.1.7779620\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android22 --sysroot=C:/Users/user/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dmaplocationlib_EXPORTS -IC:/ControlSystem/EB/EB_Android/maplocationlib/src/main/cpp/include -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -fexceptions -frtti -stdlib=libc++ -g  -fno-limit-debug-info -fPIC -o CMakeFiles\\maplocationlib.dir\\native-lib.cpp.o -c C:\\ControlSystem\\EB\\EB_Android\\maplocationlib\\src\\main\\cpp\\native-lib.cpp",
+  "file": "C:\\ControlSystem\\EB\\EB_Android\\maplocationlib\\src\\main\\cpp\\native-lib.cpp"
+}
+]

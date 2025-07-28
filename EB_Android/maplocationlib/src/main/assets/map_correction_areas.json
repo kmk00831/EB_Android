@@ -1,0 +1,171 @@
+{
+  "correctionAreas": [
+    {
+      "floor": -2,
+      "areas": [
+        {
+          "id": "corridor_1",
+          "minX": 253.0,
+          "maxX": 288.0,
+          "minY": 180.0,
+          "maxY": 858.0,
+          "correctionType": "x",
+          "correctionValue": 274.8
+        }
+      ]
+    },
+    {
+      "floor": -1,
+      "areas": [
+        {
+          "id": "corridor_1",
+          "minX": 225.0,
+          "maxX": 258.0,
+          "minY": 253.0,
+          "maxY": 552.0,
+          "correctionType": "x",
+          "correctionValue": 241.4
+        },
+        {
+          "id": "corridor_2",
+          "minX": 257.0,
+          "maxX": 285.0,
+          "minY": 646.0,
+          "maxY": 865.0,
+          "correctionType": "x",
+          "correctionValue": 273.9
+        }
+      ]
+    },
+    {
+      "floor": 1,
+      "areas": [
+        {
+          "id": "corridor_1",
+          "minX": 225.0,
+          "maxX": 258.0,
+          "minY": 253.0,
+          "maxY": 552.0,
+          "correctionType": "x",
+          "correctionValue": 241.4
+        }
+      ]
+    },
+    {
+      "floor": 2,
+      "areas": [
+        {
+          "id": "corridor_1",
+          "minX": 255.0,
+          "maxX": 288.0,
+          "minY": 105.0,
+          "maxY": 582.0,
+          "correctionType": "x",
+          "correctionValue": 272.9
+        }
+      ]
+    },
+    {
+      "floor": 3,
+      "areas": [
+        {
+          "id": "corridor_1",
+          "minX": 223.0,
+          "maxX": 258.0,
+          "minY": 179.0,
+          "maxY": 615.0,
+          "correctionType": "x",
+          "correctionValue": 243.4
+        },
+        {
+          "id": "corridor_2",
+          "minX": 256.0,
+          "maxX": 287.0,
+          "minY": 761.0,
+          "maxY": 921.0,
+          "correctionType": "x",
+          "correctionValue": 272.3
+        }
+      ]
+    },
+    {
+      "floor": 4,
+      "areas": [
+        {
+          "id": "corridor_1",
+          "minX": 223.0,
+          "maxX": 258.0,
+          "minY": 179.0,
+          "maxY": 615.0,
+          "correctionType": "x",
+          "correctionValue": 243.4
+        },
+        {
+          "id": "corridor_2",
+          "minX": 256.0,
+          "maxX": 287.0,
+          "minY": 761.0,
+          "maxY": 921.0,
+          "correctionType": "x",
+          "correctionValue": 272.3
+        }
+      ]
+    },
+    {
+      "floor": 5,
+      "areas": [
+        {
+          "id": "corridor_1",
+          "minX": 255.0,
+          "maxX": 286.0,
+          "minY": 108.0,
+          "maxY": 837.0,
+          "correctionType": "x",
+          "correctionValue": 272.9
+        }
+      ]
+    },
+    {
+      "floor": 6,
+      "areas": [
+        {
+          "id": "corridor_1",
+          "minX": 255.0,
+          "maxX": 286.0,
+          "minY": 108.0,
+          "maxY": 837.0,
+          "correctionType": "x",
+          "correctionValue": 272.9
+        }
+      ]
+    },
+    {
+      "floor": 7,
+      "areas": [
+        {
+          "id": "corridor_1",
+          "minX": 255.0,
+          "maxX": 286.0,
+          "minY": 108.0,
+          "maxY": 837.0,
+          "correctionType": "x",
+          "correctionValue": 272.9
+        }
+      ]
+    },
+    {
+      "floor": 8,
+      "areas": [
+        {
+          "id": "corridor_1",
+          "minX": 255.0,
+          "maxX": 286.0,
+          "minY": 108.0,
+          "maxY": 837.0,
+          "correctionType": "x",
+          "correctionValue": 272.9
+        }
+      ]
+    }
+  ]
+}
